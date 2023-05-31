@@ -41,7 +41,7 @@ featuredImagePreview: ""
 
     内容：了解内存分配、垃圾回收机制，堆、栈、指针、GC 算法
 
-    例如runtime/malloc.go和runtime/mheap.go等文件
+    例如 runtime/malloc.go 和 runtime/mheap.go 等文件
 
 !!!note "4.标准库"
 
@@ -65,9 +65,8 @@ featuredImagePreview: ""
     - golang 学习站点、论坛收集
     - golang 知识连结：各种知识之间的关联关系
 
-时间规划（大体 7 天建成）
 
-可能需要经过：
+步骤
 
 - [ ] 确定站点功能、内容组织结构
 - [ ] 学习、整理内容「基础内容」
