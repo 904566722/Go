@@ -16,7 +16,6 @@ featuredImagePreview: ""
 ---
 <!--more-->
 
-
 这是一个关于「golang 相关学习」的**专题站点**，创建这个站点的初衷：
 
 1. 回顾整理之前学习过的内容，并更近一步学习
@@ -116,3 +115,10 @@ featuredImagePreview: ""
 
 请注意，以上只是一个大纲，你可以根据自己的需求和兴趣进行调整和扩展。对于每个学习阶段，可以选择合适的学习资料和资源，如官方文档、书籍、博客、源码等。祝你在学习Golang中的map相关内容时取得进展！
 ```
+
+> 本站点由 [MkDocs](https://www.mkdocs.org/) 驱动
+> 
+> mkdocs 环境搭建：
+> 
+> - 要求：安装 python
+> - 安装 mkdocs：`pip install mkdocs mkdocs-material`
